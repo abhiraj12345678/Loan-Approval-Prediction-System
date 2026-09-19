@@ -1,4 +1,4 @@
-# 🤖 AI & ML Loan Risk Prediction Advisor App
+# 🤖Loan-Approval-Prediction-System
 
 An AI and Machine Learning based web application that predicts loan approval based on applicant information. The application provides real-time predictions, confidence scores, EMI analysis, affordability assessment, and AI-powered loan recommendations.
 
@@ -13,14 +13,6 @@ An AI and Machine Learning based web application that predicts loan approval bas
 ## 📌 Features
 
 - Loan Approval Prediction
-- Machine Learning Based Prediction
-- Prediction Confidence Score
-- AI Loan Advisor
-- Risk Assessment
-- EMI Calculator
-- Income-to-Loan Ratio Analysis
-- Smart Loan Suggestion
-- Multi-language Support
 - Interactive Streamlit Interface
 
 ---
