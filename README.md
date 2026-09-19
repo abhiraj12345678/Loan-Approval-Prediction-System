@@ -1,7 +1,4 @@
 # 🤖Loan-Approval-Prediction-System
-
-An AI and Machine Learning based web application that predicts loan approval based on applicant information. The application provides real-time predictions, confidence scores, EMI analysis, affordability assessment, and AI-powered loan recommendations.
-
 ---
 
 ## 🚀 Live Demo
